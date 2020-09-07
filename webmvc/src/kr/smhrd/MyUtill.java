@@ -6,8 +6,8 @@ public class MyUtill {
 	// 다시다시
 	public int hap() {
 		int sum = 0;
-		for (int i = 0; i <= 10 ; i++) {
-			sum += i;
+		for (int i = 0; i < 101; i++) {
+			sum+=i;
 		}
 		return sum;
 	}
