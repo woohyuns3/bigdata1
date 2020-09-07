@@ -5,10 +5,7 @@ public class MyUtill {
 	// 다시
 	// 다시다시
 	public int hap() {
-		int sum = 0;
-		for (int i = 0; i <= 10 ; i++) {
-			sum += i;
-		}
-		return sum;
+		// 왤케 혼자 급하신지
+		return 11;
 	}
 }
